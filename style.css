@@ -102,7 +102,7 @@ body {
   padding: 0 10px 10px 0;
 }
 /*RESPONSIVE*/
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 500px) {
   .wrapper-page {
     width: 100vw;
     height: 0;
